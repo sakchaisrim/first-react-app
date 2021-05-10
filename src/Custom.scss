@@ -1,0 +1,11 @@
+$primary_color: teal;
+$text_color: white;
+
+h1{
+    color: $text_color;
+}
+
+p{
+    background-color: $primary_color;
+    color: $text_color;
+}
